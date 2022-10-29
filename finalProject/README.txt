@@ -1,12 +1,17 @@
-The main.ipynb notebook includes an additional visualization of the minimum average weekly percent 
-capacity, resampled into periods of five years.
+Assignment Instructions:
 
-The addition groups the average percent capacity of each week and finds the minimum value for every 
-five years. This data is visualized in a pivoted table with the percent capacity as the index and the 
-periods of five years as the columns. 
+This assignment requires you to find a topic that interests you and can perform data analysis on. You’ll be presenting some interesting aspect(s) about the data using descriptive text and data visualizations. The following specifications should be considered for this assignment:
 
-Any of the minimum average capacities under 50% were stylized to print in
-red text. This notes whenever the average capacity of a week's shows in a period of five years was 
-less than half, which shows that there was a significant drop in attendance for Broadway shows during
-some week in that period. Similarly, the minimum average capacities over 80% were stylized to print
-in green, showing the time period that had the highest average minimum percent capacity. 
+    The main file should be an IPython notebook named main.ipynb
+    The source of dataset(s) should be cited.
+    The dataset(s) should be included with the submission (if possible).
+
+Some general guidelines for your data investigation:
+
+    Choose and describe data that includes at least two separate tables (in two separate files) with both quantitative and categorical data.
+    Visualize some quantitative variable(s) of the data in a way that summarizes the data effectively and write a short observational description.
+    Visualize some categorical variable(s) of the data in a way that summarizes the data effectively and write a short observational description.
+    Summarize some aspect of the data in a table that involves grouping or pivoting and write a short observation description.
+    Summarize some aspect of the data in a table that involves joining the two tables and write a short observational description.
+    Describe the dataset(s) in an introductory section.
+    Write a section at the end with concluding remarks.
